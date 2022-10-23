@@ -81,23 +81,23 @@
   
   .button-contact-me {
     display: inline;
+    background-color: var(--second-color);
+    padding: 18px 46px;
+    border-radius: 4px;
+  }
+  .button-contact-me a {
     font-family: var(--fontfamily-first);
     font-size: 18px;
     font-weight: 500;
-    border-radius: 4px;
     line-height: 27px;
     text-decoration: none;
-    padding: 18px 46px;
-    background-color: var(--second-color);
-    color: var(--third-color);
     text-align: center;
     text-transform: capitalize;
+    color: var(--third-color);
   }
   .button-contact-me:hover {
     color: var(--first-color);
   }
-  /* .btn-branding {
-  } */
   
   /* SECOND PART */
   .text-second-part {
