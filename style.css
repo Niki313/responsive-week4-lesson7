@@ -21,32 +21,6 @@ body {
   padding: 51px 67px;
 }
 
-.logo {
-  position: absolute;
-  top: 40px;
-  left: 165px;
-}
-
-.link-menu {
-  text-decoration: none;
-  font-size: 16px;
-  color: var(--first-color);
-  line-height: 24px;
-  font-family: var(--fontfamily-first);
-  margin: 0 30px;
-}
-.link-menu-block {
-  position: absolute;
-  top: 51px;
-  left: 960px;
-}
-
-.link-menu:visited {
-  color: var(--second-color);
-}
-.link-menu:hover {
-  color: var(--second-color);
-}
 .greeting-text {
   margin-top: 211px;
 }
