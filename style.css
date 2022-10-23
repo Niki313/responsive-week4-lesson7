@@ -67,7 +67,6 @@ p {
   line-height: 27px;
   text-decoration: none;
   text-align: center;
-  text-transform: capitalize;
   color: var(--third-color);
 }
 .button-contact-me:hover {
