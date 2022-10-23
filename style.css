@@ -140,7 +140,7 @@
   
   .contact-link:hover {
     background-color: var(--third-color);
-    color: var(--first-color);
+    color: var(--fourth-color);
   }
   
   .img-fluid {
