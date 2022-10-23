@@ -52,10 +52,13 @@ p {
 }
 
 .button-contact-me {
-  display: inline;
+  /* display: inline; */
+  width: 170px;
+  height: 55px;
   background-color: var(--second-color);
-   padding: 18px 20px;
+  padding: 9px 10px;
   border-radius: 4px;
+  margin: 0 auto;
 }
 .button-contact-me a {
   font-family: var(--fontfamily-first);
@@ -70,6 +73,3 @@ p {
 .button-contact-me:hover {
   color: var(--first-color);
 }
-
-
-
