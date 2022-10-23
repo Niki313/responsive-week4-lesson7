@@ -16,7 +16,7 @@ body {
 .wrapper {
   background-color: var(--third-color);
   text-align: center;
-  height: 900px;
+  height: 650px;
   margin: 0 0 127px 0;
   padding: 51px 67px;
 }
